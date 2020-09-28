@@ -26,7 +26,7 @@ I want to eventually build a custom keyboard as It has interested me and I love 
 
 Discord: mellowmarshe#0001
 
-
+![domterion GitHub stats](https://github-readme-stats.vercel.app/api?username=domterion&count_private=true&show_icons=true&title_color=c4110e&icon_color=c4110e&text_color=9f9f9f&bg_color=00000000)
 
 
 <!--
